@@ -1,0 +1,61 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+  
+}
+
+
+.wrapper {
+display: grid;
+justify-content: center;
+max-width: 1220px;
+padding: 0 10px;
+margin: 0 auto;
+height: ;
+
+}
+
+.title {
+  max-width: 100%;
+
+}
+
+li {
+  list-style-type: none;
+}
+
+
+
+.create {
+  text-decoration: line-through;
+  color: rgb(61, 102, 0);
+}
+
+.createBtn {
+  color: green;
+}
+
+.deleteBtn {
+  color: red;
+}
+
+.textInpBox {
+  
+}
+
+.error {
+  margin-left: 10px;
+  color: red;
+  font-size: 13px;
+  text-decoration: underline;
+}
+
+.day_tem {
+
+}
+
+.night_tem {
+  background-color: black;
+  color: antiquewhite;
+
+}
